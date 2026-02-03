@@ -1,0 +1,15 @@
+body {
+  font-size: 24px;
+  text-align: center;
+  background-color: #F7DB91;
+  margin: 0 10%;
+  font-family: Times New Roman;
+list-style-position: inside;
+  }
+
+h1 {
+  text-align: center;
+  font-family: Cloister Black;
+  border-bottom: 8px dashed #FF0000;
+  margin-top: 40px;
+}
